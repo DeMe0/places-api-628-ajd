@@ -3,7 +3,7 @@ const router = require("express").Router();
 const { Router } = require("express");
 
 // Import our model
-const Place = require("../models/Place");
+const Place = require("../models/place");
 
 // SEED DATA FOR SEED ROUTE
 const placeSeed = [
